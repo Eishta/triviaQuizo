@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/triviaQuizo/static/css/main.cd4ad120.chunk.css",
+    "main.js": "/triviaQuizo/static/js/main.4f3091cb.chunk.js",
+    "main.js.map": "/triviaQuizo/static/js/main.4f3091cb.chunk.js.map",
+    "runtime-main.js": "/triviaQuizo/static/js/runtime-main.4f57944c.js",
+    "runtime-main.js.map": "/triviaQuizo/static/js/runtime-main.4f57944c.js.map",
+    "static/js/2.e5f1281a.chunk.js": "/triviaQuizo/static/js/2.e5f1281a.chunk.js",
+    "static/js/2.e5f1281a.chunk.js.map": "/triviaQuizo/static/js/2.e5f1281a.chunk.js.map",
+    "index.html": "/triviaQuizo/index.html",
+    "precache-manifest.4579a8aa041fb5cc9a814d9834e5537d.js": "/triviaQuizo/precache-manifest.4579a8aa041fb5cc9a814d9834e5537d.js",
+    "service-worker.js": "/triviaQuizo/service-worker.js",
+    "static/css/main.cd4ad120.chunk.css.map": "/triviaQuizo/static/css/main.cd4ad120.chunk.css.map",
+    "static/js/2.e5f1281a.chunk.js.LICENSE.txt": "/triviaQuizo/static/js/2.e5f1281a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f57944c.js",
+    "static/js/2.e5f1281a.chunk.js",
+    "static/css/main.cd4ad120.chunk.css",
+    "static/js/main.4f3091cb.chunk.js"
+  ]
+}
